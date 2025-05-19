@@ -1,0 +1,5 @@
+.myenv/
+data/
+deploy/data/
+nepal_names_ne.csv
+nepali_names.txt
